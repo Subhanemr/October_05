@@ -68,12 +68,14 @@ public class ATM
                 case 2:
                     {
                         double withdrawAmount = WithdrawAmount(balance);
+                        balance=withdrawAmount;
                         Console.WriteLine("Balans: " + withdrawAmount);
                         break;
                     }
                 case 3:
                     {
                         double cashIn = CashIn(balance);
+                        balance = cashIn;
                         Console.WriteLine("Balans: " + cashIn);
                         break;
                     }
