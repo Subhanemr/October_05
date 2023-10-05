@@ -1,0 +1,14 @@
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\bin\Debug\net6.0\Task05_10_2023.exe
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\bin\Debug\net6.0\Task05_10_2023.deps.json
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\bin\Debug\net6.0\Task05_10_2023.runtimeconfig.json
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\bin\Debug\net6.0\Task05_10_2023.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\bin\Debug\net6.0\Task05_10_2023.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.AssemblyInfoInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.AssemblyInfo.cs
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.csproj.CoreCompileInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\refint\Task05_10_2023.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\Task05_10_2023.genruntimeconfig.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\Task05_10_2023\Task05_10_2023\Task05_10_2023\obj\Debug\net6.0\ref\Task05_10_2023.dll
